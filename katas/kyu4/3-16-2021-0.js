@@ -2,7 +2,7 @@
 =======================Codewars=========================
 Simple Fun #159: Middle Permutation
 https://www.codewars.com/kata/58ad317d1541651a740000c5/
- *****In Progress***
+Still incomplete
 ********************************************************/
 function middlePermutation(s) {
   let permutations,lengthTemp
